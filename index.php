@@ -1,1 +1,3 @@
-<?php echo 'foobar'; ?>
+<?php 
+echo 'foobar'; 
+?>
